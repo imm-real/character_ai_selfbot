@@ -8,4 +8,8 @@
 
 4. Run 'npm install' and wait until it installs
 
-5. To run it double click start.bat
+# HOW TO RUN AND CONFIGURE
+
+To configure selfbot edit config.json and don't remove Quotes
+
+To run selfbot Double click start.bat
