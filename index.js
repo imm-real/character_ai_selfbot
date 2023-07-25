@@ -23,6 +23,8 @@ const client = new discord.Client({
     checkUpdate: false
 })
 
+client.chat = await c_ai.createOrContinueChat(config.character_id)
+
 client.once('ready', async () => {
     console.log(`${client.user.username} is Ready!`)
 })
