@@ -2,9 +2,9 @@
 
 1. Install [node](https://nodejs.org/) and [git](https://git-scm.com/)
 
-2. Copy repository
+2. Clone repository
 ```bash
-git copy https://github.com/imm-real/character_ai_selfbot
+git clone https://github.com/imm-real/character_ai_selfbot
 ```
 
 # Configure
